@@ -1,2 +1,12 @@
-# Lesson-1
- Just starting learning C++
+#include iostream
+
+int main(){
+
+printf("Hello World);
+
+
+
+
+
+
+}
